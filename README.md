@@ -1,4 +1,7 @@
 # RAID — Rapid Asset & Infrastructure Discovery
+<p align="center">
+<img width="422" height="200" alt="RAID banner" src="https://github.com/user-attachments/assets/331e1f22-ed42-4952-887d-65f3532a038b" />
+</p>
 
 A multi-threaded network reconnaissance tool built in Python. RAID performs
 TCP connect scans or SYN "stealth" scans, identifies running services via
