@@ -30,7 +30,7 @@ cd your-repo-name/RAID          # adjust path if nested differently
 
 # 2. (Recommended) create and activate a virtual environment
 python3 -m venv venv
-source venv/bin/activate
+source /venv/bin/activate
 
 # 3. Install dependencies
 pip install -r requirements.txt
